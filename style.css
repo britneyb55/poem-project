@@ -1,9 +1,11 @@
-body{
+.hero-section{
     background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20241126/pngtree-abstract-pink-background-vector-image_16667423.jpg);
+    
+     padding: 40px;
 }
 h2{
      color: red;
-     font-size: 8px;
+     font-size: 90px;
 
 }
 
@@ -21,7 +23,7 @@ img{
     border:5px solid black;
     width:500px;
     height: 600px;
-    background-color: pink;
+    background-color: red;
 
 }
 
