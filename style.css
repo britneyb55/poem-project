@@ -1,0 +1,26 @@
+body{
+    background-color:pink;
+}
+h2{
+     color: red;
+     font-size: 8px;
+}
+
+h1{
+     font-family: "Alfa Slab One", serif;
+     
+
+}
+
+img{
+    padding:50px;
+    margin-top: 30px;
+    margin-bottom:40;
+    border-radius:50px;
+    border:5px solid black;
+    width:500px;
+    height: 600px;
+
+}
+
+
